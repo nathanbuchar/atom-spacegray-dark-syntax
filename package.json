@@ -1,8 +1,8 @@
 {
-  "name": "spacegray-dark-2-syntax",
+  "name": "spacegray-dark-neue-syntax",
   "theme": "syntax",
   "version": "0.2.1",
-  "description": "Port of the Spacegray Sublime Theme (Default theme - Dark)",
+  "description": "A better Spacegray port.",
   "repository": "https://github.com/nathanbuchar/spacegray-dark-syntax",
   "license": "MIT",
   "engines": {
