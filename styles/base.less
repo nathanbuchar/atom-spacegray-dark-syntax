@@ -22,6 +22,12 @@ atom-text-editor, atom-text-editor::shadow, :host {
     color: @syntax-invisible-character-color;
   }
 
+  .line {
+    &.cursor-line {
+      background-color: @syntax-gutter-background-color-selected;
+    }
+  }
+
   .gutter {
     background-color: @syntax-gutter-background-color;
     color: @syntax-gutter-text-color;
