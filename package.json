@@ -1,8 +1,8 @@
 {
   "name": "spacegray-dark-neue-syntax",
   "theme": "syntax",
-  "version": "0.2.1",
-  "description": "A better Spacegray port.",
+  "version": "0.0.0",
+  "description": "A better port of the Spacegray Sublime theme by Gadzhi Kharkharov.",
   "repository": "https://github.com/nathanbuchar/spacegray-dark-syntax",
   "license": "MIT",
   "engines": {

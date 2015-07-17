@@ -1,7 +1,15 @@
-# Spacegray Dark Syntax Theme
+# Spacegray Dark Neue syntax theme
 
-Port of the [Spacegray](http://kkga.github.io/spacegray) Sublime Theme for Atom Syntax.
+A better port of the [Spacegray](http://kkga.github.io/spacegray) Sublime theme by Gadzhi Kharkharov.
 
-Best used with the [Spacegray Dark UI](https://atom.io/packages/spacegray-dark-ui) theme
 
-![Screenshot](http://recordit.co/tJyAZ2p75C.gif)
+
+### Suggested UI Theme
+
+* [Spacegray Dark Neue UI](https://atom.io/themes/spacegray-dark-neue-ui)
+
+
+### Screenshots
+
+![screenshot-1](https://raw.githubusercontent.com/nathanbuchar/spacegray-dark-syntax/master/screenshots/screenshot-1.png)
+![screenshot-2](https://raw.githubusercontent.com/nathanbuchar/spacegray-dark-syntax/master/screenshots/screenshot-2.png)
