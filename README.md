@@ -12,7 +12,7 @@ A better port of the [Spacegray](http://kkga.github.io/spacegray) Sublime theme 
 
 ### You Might Also Be Interested in:
 
-* [Peacocks In Space Syntax](https://atom.io/themes/peacocks-in-space-syntax)t
+* [Peacocks In Space Syntax](https://atom.io/themes/peacocks-in-space-syntax)
 
 
 ### Screenshots
