@@ -76,7 +76,7 @@ atom-text-editor .search-results .marker.current-result .region,
 
 .comment {
   color: @light-gray;
-  font-style: italic;
+  font-style: normal;
 }
 
 .entity {
@@ -135,7 +135,7 @@ atom-text-editor .search-results .marker.current-result .region,
 }
 
 .variable {
-  color: @blue;
+  color: @red;
 
   &.interpolation {
     color: darken(@red, 10%);
@@ -195,10 +195,14 @@ atom-text-editor .search-results .marker.current-result .region,
       color: @purple;
       font-style: italic;
     }
+
+    &.constant {
+      color: @green;
+    }
   }
 
   &.section.embedded {
-    color: darken(@red, 10%);
+    color: @red;
   }
 
 }
