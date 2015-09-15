@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "1.1.5",
   "description": "A better port of the Spacegray Sublime theme by Gadzhi Kharkharov.",
-  "repository": "https://github.com/nathanbuchar/spacegray-dark-syntax",
+  "repository": "https://github.com/nathanbuchar/atom-spacegray-dark-syntax",
   "license": "MIT",
   "keywords": [
     "syntax",
