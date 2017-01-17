@@ -1,7 +1,7 @@
 {
   "name": "spacegray-dark-neue-syntax",
   "theme": "syntax",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "A better port of the Spacegray Sublime theme by Gadzhi Kharkharov.",
   "repository": "https://github.com/nathanbuchar/atom-spacegray-dark-syntax",
   "license": "MIT",
